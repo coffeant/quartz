@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "cb87c9846c6c68ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d5abdd93dbdc286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "748411d28c317f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/clips/建议收藏！用codex辅助做外贸独立站SEO，我做对了什么？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "建议收藏！用codex辅助做外贸独立站SEO，我做对了什么？"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f16b34b006a9d8b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c8ed4ce252c7f8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d764bf4c6239171",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "59dca576b9b413f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "99a1cbf5342191eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1ea24561f46b5a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2293268d27dee96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe2495c9459b65b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "dec8c937e357d431",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "cb913d1d6c26ea44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "eed2cd3cdf1d81b7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "678e03c9e75527b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GTM-KB-README.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "748411d28c317f44",
+  "lastOpenFiles": [
+    "raw/clips/9000字长文｜中国GEO生态实证全景：资本投了票，买方卡在验收，监管划了线.md",
+    "raw/clips/建议收藏！用codex辅助做外贸独立站SEO，我做对了什么？.md",
+    "templates/Clip-Template.md",
+    "GTM-KB-README.md",
+    "wiki/topics/B2B-SaaS-GTM.md",
+    "wiki/concepts/一人闭环.md",
+    "wiki/concepts/AI知识库.md",
+    "wiki/concepts/AI内容SEO.md",
+    "wiki/concepts/外贸建站.md",
+    "wiki/concepts/开发信.md",
+    "raw/clips/Codex + Obsidian 搭建自生长的个人知识库实战.md",
+    "wiki/concepts/Agent-选型.md",
+    "wiki/concepts/AI-Skill.md",
+    "wiki/sources/Source-AI落地实战系列.md",
+    "raw/clips/①｜AI 工具半年换一代，外贸公司该攒的是另外三样.md",
+    "raw/_pdf_inbox/tpyrced_老板必修的AI经营课_询盘云_深圳.pdf",
+    "raw/clips/②｜能不能连上境外服务，决定了外贸公司该选哪个 AI.md",
+    "raw/clips/③｜给 AI 装技能别自己造，外面早就有人做好了.md",
+    "raw/clips/④｜同样让 AI 做个网站，有没有知识库出来完全两样.md",
+    "raw/clips/⑤｜别再群发了，让 AI 按街道把外贸客户挖出来、一对一开发.md",
+    "raw/clips/别把 Facebook 当名单库，外贸找客户得换个思路.md",
+    "raw/clips/⑦｜10 分钟能出网页，3 个月才能做出获客的外贸站.md",
+    "raw/clips/⑥｜开发信退信率超过 3%，剩下 97% 的邮件也发不出去.md",
+    "raw/clips/⑧｜AI 写的外贸文章，为什么改了还是被 Google 认出来.md",
+    "Clippings",
+    "raw/clips/外贸报价谈判话术模板.md",
+    "raw/clips/Obsidian CLI.md",
+    "schema/_index.md",
+    "raw/_pdf_inbox/AI_Agent_外贸新玩法_询盘云_天津.pdf",
+    "tools/quick-clip-bookmark.js",
+    "tools",
+    "raw/_mineru_outbox",
+    "raw/_pdf_inbox/output/AI_Agent_外贸新玩法_询盘云_天津/auto/images",
+    "raw/_pdf_inbox/output/AI_Agent_外贸新玩法_询盘云_天津/auto",
+    "raw/_pdf_inbox/output/AI_Agent_外贸新玩法_询盘云_天津",
+    "raw/_pdf_inbox/output",
+    "未命名.canvas"
+  ]
+}
