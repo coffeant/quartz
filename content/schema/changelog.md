@@ -33,3 +33,10 @@
 - **新增**: [[外贸建站]] — 外贸网站搭建
 - **新增**: [[AI内容SEO]] — AI 内容与 SEO 策略
 - **新增**: [[Source-AI落地实战系列]] — 询盘云外贸 AI 落地实战系列文章来源
+- **规则变更**: 升级 AGENTS.md — 新增两步思维链摄入流程
+- **新增**: purpose.md — 知识库方向意图定义
+- **新增**: overview.md — 全局概览（自动更新）
+- **新增**: log.md — 操作日志
+- **新增**: ingest-prompt.md — LLM 摄入提示模板
+- **更新**: wiki 页面 — 添加 sources frontmatter 字段（ICP、AI知识库）
+- **新增**: wiki/index.md — Wiki 知识库主入口

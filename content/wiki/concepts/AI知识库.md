@@ -2,7 +2,11 @@
 type: concept
 tags: [AI, 知识库, 外贸, RAG]
 created: 2026-09-14
+updated: 2026-09-14
 status: stable
+sources:
+  - raw/clips/④｜同样让 AI 做个网站，有没有知识库出来完全两样.md
+  - raw/clips/①｜AI 工具半年换一代，外贸公司该攒的是另外三样.md
 ---
 
 # AI 知识库
